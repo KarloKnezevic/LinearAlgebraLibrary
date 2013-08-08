@@ -1,7 +1,7 @@
-package hr.fer.zemris.linearna.vector;
+package hr.fer.zemris.linearalgebra.vector;
 
-import hr.fer.zemris.linearna.IVector;
-import hr.fer.zemris.linearna.UnmodifiableObjectException;
+import hr.fer.zemris.linearalgebra.exception.UnmodifiableObjectException;
+
 
 /**
  * Razred vektor.

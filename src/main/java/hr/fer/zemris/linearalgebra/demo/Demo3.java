@@ -1,10 +1,11 @@
-package hr.fer.zemris.linearna.demo;
+package hr.fer.zemris.linearalgebra.demo;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import hr.fer.zemris.linearna.IMatrix;
-import hr.fer.zemris.linearna.matrix.Matrix;
+
+import hr.fer.zemris.linearalgebra.matrix.IMatrix;
+import hr.fer.zemris.linearalgebra.matrix.Matrix;
 
 /**
  * DEMO 3.

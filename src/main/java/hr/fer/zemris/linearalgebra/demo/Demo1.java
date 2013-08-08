@@ -1,9 +1,9 @@
-package hr.fer.zemris.linearna.demo;
+package hr.fer.zemris.linearalgebra.demo;
 
-import hr.fer.zemris.linearna.IMatrix;
-import hr.fer.zemris.linearna.IVector;
-import hr.fer.zemris.linearna.matrix.Matrix;
-import hr.fer.zemris.linearna.vector.Vector;
+import hr.fer.zemris.linearalgebra.matrix.IMatrix;
+import hr.fer.zemris.linearalgebra.matrix.Matrix;
+import hr.fer.zemris.linearalgebra.vector.IVector;
+import hr.fer.zemris.linearalgebra.vector.Vector;
 
 /**
  * DEMO 1.

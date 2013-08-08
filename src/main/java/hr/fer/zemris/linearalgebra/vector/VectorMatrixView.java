@@ -1,9 +1,8 @@
-package hr.fer.zemris.linearna.vector;
+package hr.fer.zemris.linearalgebra.vector;
 
-import hr.fer.zemris.linearna.IMatrix;
-import hr.fer.zemris.linearna.IVector;
-import hr.fer.zemris.linearna.IncompatibleOperandException;
-import hr.fer.zemris.linearna.matrix.Matrix;
+import hr.fer.zemris.linearalgebra.exception.IncompatibleOperandException;
+import hr.fer.zemris.linearalgebra.matrix.IMatrix;
+import hr.fer.zemris.linearalgebra.matrix.Matrix;
 
 /**
  * Razred modelira pogled na jednoretčanu ili jednostupčanu

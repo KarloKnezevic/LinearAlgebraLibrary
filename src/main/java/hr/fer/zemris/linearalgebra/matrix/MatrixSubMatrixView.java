@@ -1,6 +1,5 @@
-package hr.fer.zemris.linearna.matrix;
+package hr.fer.zemris.linearalgebra.matrix;
 
-import hr.fer.zemris.linearna.IMatrix;
 
 /**
  * Podmatrica matrice.

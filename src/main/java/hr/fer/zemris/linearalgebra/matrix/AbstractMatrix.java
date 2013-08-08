@@ -1,11 +1,10 @@
-package hr.fer.zemris.linearna.matrix;
+package hr.fer.zemris.linearalgebra.matrix;
 
 import java.text.DecimalFormat;
 
-import hr.fer.zemris.linearna.IMatrix;
-import hr.fer.zemris.linearna.IVector;
-import hr.fer.zemris.linearna.IncompatibleOperandException;
-import hr.fer.zemris.linearna.vector.VectorMatrixView;
+import hr.fer.zemris.linearalgebra.exception.IncompatibleOperandException;
+import hr.fer.zemris.linearalgebra.vector.IVector;
+import hr.fer.zemris.linearalgebra.vector.VectorMatrixView;
 
 /**
  * Apstraktni razred matrice.

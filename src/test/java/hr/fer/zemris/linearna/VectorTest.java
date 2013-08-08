@@ -1,7 +1,11 @@
 package hr.fer.zemris.linearna;
 
 import static org.junit.Assert.*;
-import hr.fer.zemris.linearna.vector.Vector;
+import hr.fer.zemris.linearalgebra.exception.IncompatibleOperandException;
+import hr.fer.zemris.linearalgebra.exception.UnmodifiableObjectException;
+import hr.fer.zemris.linearalgebra.matrix.IMatrix;
+import hr.fer.zemris.linearalgebra.vector.IVector;
+import hr.fer.zemris.linearalgebra.vector.Vector;
 
 import org.junit.Test;
 

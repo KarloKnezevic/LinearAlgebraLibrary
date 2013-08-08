@@ -1,7 +1,7 @@
-package hr.fer.zemris.linearna.demo;
+package hr.fer.zemris.linearalgebra.demo;
 
-import hr.fer.zemris.linearna.IVector;
-import hr.fer.zemris.linearna.vector.Vector;
+import hr.fer.zemris.linearalgebra.vector.IVector;
+import hr.fer.zemris.linearalgebra.vector.Vector;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,7 +1,7 @@
-package hr.fer.zemris.linearna.matrix;
+package hr.fer.zemris.linearalgebra.matrix;
 
-import hr.fer.zemris.linearna.IMatrix;
-import hr.fer.zemris.linearna.IVector;
+import hr.fer.zemris.linearalgebra.vector.IVector;
+
 
 /**
  * Razred modelira pogled na vektor kao matricu.

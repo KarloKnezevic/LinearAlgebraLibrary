@@ -1,8 +1,8 @@
-package hr.fer.zemris.linearna.demo;
+package hr.fer.zemris.linearalgebra.demo;
 
 
-import hr.fer.zemris.linearna.IMatrix;
-import hr.fer.zemris.linearna.matrix.Matrix;
+import hr.fer.zemris.linearalgebra.matrix.IMatrix;
+import hr.fer.zemris.linearalgebra.matrix.Matrix;
 
 import java.io.BufferedReader;
 import java.io.IOException;
